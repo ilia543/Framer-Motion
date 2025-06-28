@@ -1,0 +1,17 @@
+
+
+body {
+  margin: 0;
+  height: 200vh;
+  background-color: rgb(29, 29, 29);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  background: linear-gradient(to right, blue, skyblue);
+  /* border-radius: 0%; */
+}
